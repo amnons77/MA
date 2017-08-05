@@ -1,0 +1,27 @@
+{
+  "name": "ma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnons77/MA.git"
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "ioredis": "^3.1.2",
+    "moment": "^2.18.1",
+    "shortid": "^2.2.8",
+    "string-format": "^0.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/amnons77/MA/issues"
+  },
+  "homepage": "https://github.com/amnons77/MA#readme"
+}
